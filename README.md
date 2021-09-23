@@ -2,7 +2,8 @@
 Contiene: Prueba de canicas con coeficientes de tipo Booleano, experimentos de las múltiples rendijas clásico probabilístico, con más de dos rendijas, experimento de las múltiples rendijas cuántico.
 
 ## Funcionamiento
-Una vez descargados los archivos ejecutelos en pycharm, procurar que ambos archivos esten guardados en la misma carpeta. Abra el archivo "classical_to_quantum_tests". En el archivo "classical_to_quantum" encontrara las funciones correspondientes. 
+Una vez descargados los archivos ejecutelos en pycharm, procurar que ambos archivos esten guardados en la misma carpeta. Abra el archivo "classical_to_quantum_tests". 
+En el archivo "classical_to_quantum" encontrara las funciones correspondientes. 
 
 ### Pre-requisitos
 Python 3.9.5
